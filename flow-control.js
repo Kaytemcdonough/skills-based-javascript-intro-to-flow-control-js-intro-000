@@ -1,10 +1,10 @@
 function basicTeenager(age) {return "You are a teenager!"
-if age(13>=19)
-console.log(basicTeenager)
+
 }
 
 
-function teenager(age) {
+function teenager(age) {if age(13>=19)
+console.log(basicTeenager)
 
 }
 
