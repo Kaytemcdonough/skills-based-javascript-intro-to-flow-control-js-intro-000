@@ -1,4 +1,6 @@
 function basicTeenager(age) {return "You are a teenager!"
+if age(13>=19)
+console.log(basicTeenager)
 }
 
 
