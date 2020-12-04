@@ -1,5 +1,4 @@
-function basicTeenager(age) {
-  console.log("You are a teenager!")
+function basicTeenager(age) {return "You are a teenager!"
 
 }
 
