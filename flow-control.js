@@ -1,6 +1,7 @@
-function basicTeenager(age) {
+function basicTeenager(age) {"You are a teenager!"
 
 }
+
 
 function teenager(age) {
 
