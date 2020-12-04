@@ -1,5 +1,5 @@
 function basicTeenager(age) {return "You are a teenager!"
-var basicTeenager = >13 && <19
+var basicTeenager = 13
 }
 
 
