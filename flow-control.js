@@ -1,5 +1,4 @@
 function basicTeenager(age) {return "You are a teenager!"
-console.log(basicTeenager)
 }
 
 
